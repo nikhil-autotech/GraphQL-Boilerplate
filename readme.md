@@ -41,4 +41,4 @@
     - more can be found at docs in link below.
         - https://graphql.org/learn/
     
-    ![alt text](https://github.com/nikhil-autotech/GraphQL-Boilerplate/main/diff.png?raw=true)
+    ![alt text](https://github.com/nikhil-autotech/GraphQL-Boilerplate/blob/main/diff.png?raw=true)
